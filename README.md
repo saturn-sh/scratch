@@ -18,3 +18,17 @@
 - Guest book
 - Icecast server
 - Uptime bot
+
+## Packages provided to users:
+- Development environments:
+  - C/C++ (gcc, clang, make, cmake, etc)
+  - Rust
+  - Python
+  - Lua
+- Editors:
+  - Vim
+  - Emacs
+  - Nano
+- IRC:
+  - Weechat
+  - irssi

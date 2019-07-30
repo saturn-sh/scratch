@@ -19,7 +19,7 @@
 - Icecast server
 - Uptime bot
 
-## Packages provided to users:
+## Provided to users:
 - Development environments:
   - C/C++ (gcc, clang, make, cmake, etc)
   - Rust
@@ -32,3 +32,8 @@
 - IRC:
   - Weechat
   - irssi
+- Databases
+  - MySQL
+  - Postgres
+  - MariaDB
+  - SQLite

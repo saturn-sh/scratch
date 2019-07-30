@@ -1,0 +1,29 @@
+tilde info:
+other tildes - http://tilde.club/~pfhawkins/othertildes.html
+tilde.institute - https://tilde.institute/
+how do manage your own tilde.club server - https://github.com/tildeclub/tilde.club
+
+
+services to run:
+minetest - http://www.minetest.net
+
+
+misc sites:
+BSD, C, httpd, SQLite. - https://learnbchs.org/
+tilde.institute wiki - https://wiki.tilde.institute/
+BSD Handbook (OpenBSD) - https://www.bsdhandbook.com/openbsd/
+
+
+articles:
+adding daemons - https://blog.linuxlab.sh/posts/adding-daemons-to-openbsd/
+installing gitea - https://dev.to/nabbisen/gitea-on-openbsd-using-official-package-2ogl
+httpd + ssl + letsencrypt - https://www.bsdhandbook.com/openbsd/webserver/ssl/
+
+
+caddy plugins:
+tls.dns.digitalocean
+http.ratelimit
+http.cgi
+http.cors
+http.cache
+http.login
